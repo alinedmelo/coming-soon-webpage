@@ -1,0 +1,22 @@
+{
+  "name": "coming-soon-webpage",
+  "version": "1.0.0",
+  "description": "A modern and simple coming soon page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinedmelo/coming-soon-webpage.git"
+  },
+  "author": "Aline Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinedmelo/coming-soon-webpage/issues"
+  },
+  "homepage": "https://github.com/alinedmelo/coming-soon-webpage#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
