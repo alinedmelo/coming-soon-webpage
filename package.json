@@ -4,7 +4,9 @@
   "description": "A modern and simple coming soon page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "node-sass sass/style.scss css/style.css",
+    "watch-sass": "node-sass sass/style.scss css/style.css --w"
   },
   "repository": {
     "type": "git",
